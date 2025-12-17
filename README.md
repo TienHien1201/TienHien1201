@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="./asset/banner_4.png" alt="banner" />
+  <img src="./resumeimg/banner.png" alt="banner" />
 </p>
 
 <!-- Typing headline -->
@@ -31,12 +31,10 @@ I am a **Full Stack Developer & Technical Mentor** with hands-on experience buil
 * 📍 Location: **Binh Phuoc, Vietnam**
 * 📫 Email: **[tienhien.cntt@gmail.com](mailto:tienhien.cntt@gmail.com)**
 * 📞 Phone: **0392 645 290**
-* 💼 GitHub: [https://github.com/TienHien1201](https://github.com/TienHien1201)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/hi%E1%BB%81n-ph%E1%BA%A1m-ti%E1%BA%BFn-ab4666354/](https://www.linkedin.com/in/hi%E1%BB%81n-ph%E1%BA%A1m-ti%E1%BA%BFn-ab4666354/)
-
+  
 </td>
 <td width="35%" align="center">
-  <img src="./asset/item4_4.gif" width="300" alt="coding" />
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 </td>
 </tr>
 </table>
