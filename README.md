@@ -94,13 +94,20 @@ I am a **Full Stack Developer & Technical Mentor** with hands-on experience buil
 
 ### 🏠 Real Estate Booking System
 
-**Full Stack · TypeScript · React · Node.js**
+**Full Stack · TypeScript · Nextjs · Golang**
 
-* JWT authentication & role-based access
-* Booking & property management
-* AI-powered customer assistant
 
-🔗 [https://github.com/TienHien1201/BnbApartment](https://github.com/TienHien1201/BnbApartment)
+* Designed and developed a social networking platform using Golang following Clean Architecture, ensuring clear separation of concerns and high maintainability.
+* Implemented a secure authentication and authorization system, including user registration, login, JWT-based access control, and role-based permissions (User / Admin) enforced via middleware.
+* Integrated Google OAuth2 login and two-factor authentication (2FA) using OTP, enhancing account security.
+* Built an asynchronous email notification system using message queues, handling email delivery for user registration and login events via background workers.
+* Developed real-time social chat features (one-to-one and one-to-many) using native WebSocket, supporting low-latency message delivery.
+* Implemented media upload functionality, allowing users to upload avatars and post images using Cloudinary, with support for multiple images per post.
+* Applied Redis caching to optimize frequently accessed data and improve overall system performance.
+* Integrated Elasticsearch to provide fast and scalable search capabilities across social content.
+* Designed and implemented social post management features, including creating posts with multiple images and managing user-generated content.
+
+🔗 [https://github.com/TienHien1201/golang-apartment-service](https://github.com/TienHien1201/golang-apartment-service)
 
 </td>
 <td width="50%">
